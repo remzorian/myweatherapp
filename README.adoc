@@ -9,3 +9,12 @@ You can execute the code using:
 mvn clean package [ to compile, test and package the code ]. 
 mvn spring-boot:run -Dapp.weather.locations=Nigeria/Lagos,Nigeria/Kano [ to execute the code ]
 ```
+
+
+= Bugs
+
+==Issues Found
+
+```
+New York location does not work, over to developer to resolve.
+```
