@@ -13,7 +13,7 @@ mvn spring-boot:run -Dapp.weather.locations=Nigeria/Lagos,Nigeria/Kano [ to exec
 
 = Bugs
 
-==Issues Found
+== Issues Found
 
 ```
 New York location does not work, over to developer to resolve.
